@@ -4,3 +4,31 @@
   height: auto;
   margin: 0 auto;
 }
+
+#main {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+#title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+  #img-caption {
+    text-align: center;
+    font-size: 12px;
+  }
+  
+  #tribute-info {
+    font-size: 14px;
+  }
+
+  .footer-link {
+    font-size: 12px;
+  }
+  
+  #quote {
+    font-style: italic;
+  }
